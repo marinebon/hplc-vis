@@ -6,4 +6,4 @@
 
 - screenshot:
 
-  ![](https://asurinsaka.github.io/images/shinyapp-pie.gif)
+  ![animated gif](https://asurinsaka.github.io/images/shinyapp-pie.gif)
